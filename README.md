@@ -1,0 +1,1 @@
+# outsourcr-styleguide
